@@ -2,7 +2,7 @@
 
 ### Prerequisites:
 1. Install [Android Studio 3.6](https://developer.android.com/studio?gclid=EAIaIQobChMImKCYqOvH6AIVVa6WCh3CzgguEAAYASAAEgKae_D_BwE&gclsrc=aw.ds). (if you already have it, update it to 3.6)
-2. Clone [this](https://github.com/devlup-labs/android-webinar-2020) repo.
+2. Clone [this](https://github.com/devlup-labs/android-webinar-2020) repo. ([ref video](https://www.youtube.com/watch?v=ovBwZCkl3Vg))
 3. Open this project in android studio and let it build. (this will install all the required libraries for webinar)
 4. Then run the existing app on emulator or mobile:<br>
     * If you want to use your mobile, enable usb debugging in it.
